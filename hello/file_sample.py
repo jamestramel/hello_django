@@ -1,0 +1,1 @@
+file = open('hello.txt', 'w')
